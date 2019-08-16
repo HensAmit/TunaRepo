@@ -1,0 +1,2 @@
+this is staged
+adding 2nd line not staged
